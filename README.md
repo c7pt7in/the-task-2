@@ -1,5 +1,7 @@
 # the-task-2
 
+[Условие](https://github.com/kirillmurashov/the-task-2)
+
 <img src='./preview.png'>
 
 ## Project setup
