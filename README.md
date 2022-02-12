@@ -1,4 +1,4 @@
-# the-task-2
+# the-task-2 Vue 2
 
 [Условие](https://github.com/kirillmurashov/the-task-2)
 
